@@ -1,0 +1,30 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "A sample node application ",
+  "main": "start.js",
+  "dependencies": {
+    "eslint": "^3.16.0",
+    "express": "^4.14.1",
+    "socket.io": "^1.7.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taruntomar/nodesample.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "socket.io"
+  ],
+  "author": "Tarun Kumar Tomar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taruntomar/nodesample/issues"
+  },
+  "homepage": "https://github.com/taruntomar/nodesample#readme"
+}
